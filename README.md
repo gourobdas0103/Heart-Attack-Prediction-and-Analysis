@@ -8,12 +8,9 @@ Welcome to the Heart Attack Prediction and Analysis project! This project aims t
 
 - [Introduction](#introduction)
 - [Features](#features)
-- [Installation](#installation)
-- [Usage](#usage)
 - [Dataset](#dataset)
 - [Model](#model)
 - [Results](#results)
-- [Contributing](#contributing)
 - [License](#license)
 
 ## Introduction
@@ -28,19 +25,6 @@ Cardiovascular diseases, including heart attacks, are a leading cause of mortali
 - Prediction of heart attack risk
 - Data visualization for analysis
 
-## Installation
-
-1. Clone the repository: `git clone https://github.com/preetimahto17/heart-attack-prediction-and-analysis.git`
-2. Navigate to the project directory: `cd heart-attack-prediction-and-analysis`
-3. Install the required dependencies: `pip install -r requirements.txt`
-
-## Usage
-
-1. Prepare your dataset in CSV format and place it in the `data` directory.
-2. Run the data preprocessing script: `python preprocess_data.py`
-3. Train the prediction model: `python train_model.py`
-4. Use the trained model for predictions: `python predict.py`
-
 ## Dataset
 
 The dataset used for this project is sourced from Kaggle. It contains various attributes such as age, sex, blood pressure, cholesterol levels, etc. that are relevant to heart health.
@@ -54,13 +38,6 @@ I used multiple machine-learning techniques such as Logistic Regression, KNN, SV
 Compared the results obtained from all five techniques and SVM performed the best among the five.
 ## Contributing
 
-Contributions are welcome! If you'd like to improve the project, implement new features, or fix issues, feel free to open pull requests.
-
-1. Fork the repository
-2. Create a new branch: `git checkout -b feature-name`
-3. Make your changes and commit them: `git commit -m 'Add some feature'`
-4. Push to the branch: `git push origin feature-name`
-5. Open a pull request
 
 ## License
 
