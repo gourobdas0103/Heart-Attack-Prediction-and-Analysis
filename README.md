@@ -36,8 +36,6 @@ I used multiple machine-learning techniques such as Logistic Regression, KNN, SV
 ## Results
 
 Compared the results obtained from all five techniques and SVM performed the best among the five.
-## Contributing
-
 
 ## License
 
@@ -45,7 +43,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-By Preeti Mahto
-Contact: preetimahto6@gmail.com
+By Preeti Mahto, Contact: preetimahto6@gmail.com
 
 Feel free to explore, use, and enhance this project! Your contributions are greatly appreciated.
