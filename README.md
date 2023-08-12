@@ -44,5 +44,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ---
 
 By Preeti Mahto, Contact: preetimahto6@gmail.com
-
-Feel free to explore, use, and enhance this project! Your contributions are greatly appreciated.
